@@ -30,9 +30,13 @@ In order to run the default case of Player 1 being minimax Algorithm and Player 
 In order to try out all/any of the 16 combinations, run the command "python play.py player1 player2" (do not type player1 or player2, instead replace them with below values)
 
 where the player1, player2 parameters can take any of the following 4 values,
+
 human
+
 random
+
 minimax
+
 alphabeta
                       
 Example Command: python play.py alphabeta random
