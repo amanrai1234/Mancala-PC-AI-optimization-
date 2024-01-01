@@ -37,6 +37,3 @@ Name: Babu Aman Rai Saxena
 UR NetID: bsaxena@ur.rochester.edu
 UR Student ID: 32103519
 
-Name: Deepak Subramani Velumani
-UR NetID: dsubrama@ur.rochester.edu
-UR Student ID: 32132007
